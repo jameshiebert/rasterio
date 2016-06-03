@@ -5,7 +5,6 @@ import logging
 import click
 
 import rasterio
-import rasterio.crs
 from rasterio.env import Env
 
 
