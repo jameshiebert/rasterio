@@ -5,7 +5,7 @@ import sys
 import json
 
 import rasterio
-from rasterio._crs import CRS
+from rasterio.crs import CRS
 from rasterio.errors import CRSError
 
 
